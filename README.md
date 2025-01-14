@@ -20,8 +20,7 @@
   Powered by **SharedPreferences**, all user settings and task lists are saved across sessions, ensuring a seamless user experience.
 
 ## Screen Recording
-
-![App Screenshot](https://github.com/user-attachments/assets/fa941e60-6e8c-44d7-9b26-f36c16745402)
+https://github.com/user-attachments/assets/fa941e60-6e8c-44d7-9b26-f36c16745402
 
 ## Technology Stack
 
